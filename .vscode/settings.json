@@ -1,0 +1,12 @@
+{
+    "editor.formatOnType": true,
+    "files.associations": {
+        "*.ml": "ocaml",
+        "*.mli": "ocaml"
+    },
+    "explorer.confirmDelete": false,
+    "editor.formatOnSave": true,
+    "ocaml.lintOnSave": true,
+    "ocaml.useOpamToResolve": true,
+    "window.zoomLevel": 2
+}

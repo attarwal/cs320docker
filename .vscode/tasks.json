@@ -1,0 +1,14 @@
+{
+    "version": "2.0.0",
+    "command": "make",
+    "reveal": "always",
+    "tasks": [
+        {
+            "label": "clean"
+        },
+        {
+            "label": "build",
+            "problemMatcher": "$ocamlc"
+        }
+    ]
+}
