@@ -5,7 +5,7 @@
             "name": "OCaml",
             "type": "ocamldebug",
             "request": "launch",
-            "program": "${workspaceRoot}/inlecture.d.byte",
+            "program": "${fileDirname}/${fileBasenameNoExtension}.d.byte",
             "stopOnEntry": false,
             "preLaunchTask": "build" // Build before launch        
         }
